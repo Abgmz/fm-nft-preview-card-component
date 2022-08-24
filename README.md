@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/Abgmz/fm-nft-preview-card-component)
-- Live Site URL: [Live Site URL](https://nft-prev-card-component.netlify.app)
+- Solution URL: [Abgmz/fm-nft-preview-card-component](https://github.com/Abgmz/fm-nft-preview-card-component)
+- Live Site URL: [https://nft-prev-card-component.netlify.app](https://nft-prev-card-component.netlify.app)
 
 
 ### Built with
